@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjidubey&label=Profile%20views&color=0e75b6&style=flat" alt="omjidubey" /> </p>
 
-- 🌱 I’m currently learning backend technologiesand exploring AI/ML.
+- 🌱 I’m currently learning backend technologies and exploring AI/ML.
 
 - 📫 How to reach me **omjidubey@outlook.in**
 
