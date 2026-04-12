@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omji Dubey</h1>
-<h3 align="center">A B.Tech. CSE student and passionate about web developer, IoT and Network Programming.</h3>
+<h3 align="center">A B.Tech. CSE student and passionate about web developer, IoT and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjidubey&label=Profile%20views&color=0e75b6&style=flat" alt="omjidubey" /> </p>
 
-- 🌱 I’m currently learning backend technologies and exploring AI/ML.
+- ⚙️ Currently diving deep into backend technologies and exploring AI/ML
+- 🚀 Always building, learning, and improving 
 
 - 📫 How to reach me **omjidubey@outlook.in**
 
